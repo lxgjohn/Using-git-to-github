@@ -1,0 +1,7 @@
+Git to Github 操作
+
+step1：在Github上负责仓库的链接地址‘xx’
+step2：在Git中切换到某个仓库后，使用git clone ‘xx’下载仓库的内容
+step3：在工作区增删改文件，使用git add增加到暂存区，用git commit -m ‘描述’提交到仓库区
+step4：使用git push将修改的文件提交中GitHub用于共享或者备份（期间需要输入GitHub的账号和密码）
+

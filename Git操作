@@ -6,3 +6,5 @@ step3 进入文件夹 git init 初始化仓库
 step4 mkdir ‘xx’ 在对应目录创建文件‘xx’（工作区）
 step5 git add ‘xx’ 将文件添加到暂存区（暂存区）
 step6 git commit -m ‘xx’ 将文件提交到仓库（Git仓库区）
+
+额外：可以使用git config --list查看配置信息

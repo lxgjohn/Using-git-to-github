@@ -1,0 +1,7 @@
+Git的操作 for mac
+
+step1 安装，利用命令行进入Git
+step2 全局设置 git config --global user.name ‘xx’  git config --global user.email ‘xx’
+step3 mkdir ‘xx’ 在对应目录创建文件‘xx’（工作区）
+step4 git add ‘xx’ 将文件添加到暂存区（暂存区）
+step5 git commit -m ‘xx’ 将文件提交到仓库（Git仓库区）
